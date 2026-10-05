@@ -276,25 +276,13 @@ PCAP dosyası, saldırı trafiğinin daha sonra tekrar incelenebilmesi ve CyberT
 
 ### DNS Tunneling Trafiği
 
-> Buraya Wireshark'ta DNS Tunneling paketlerinin göründüğü ekran görüntüsü eklenecektir.
+<img width="1366" height="355" alt="image" src="https://github.com/user-attachments/assets/0472ae96-8da5-448d-b1e0-5772dcd7260b" />
 
-Örnek:
-
-```text
-screenshots/dns-tunneling-traffic.png
-```
 
 ### DNS Query Detayları
 
-> Buraya seçilen DNS paketinin Packet Details bölümünü gösteren ekran görüntüsü eklenecektir.
+<img width="972" height="317" alt="image" src="https://github.com/user-attachments/assets/60c2266e-d04c-42c3-94c9-c8c4770408e1" />
 
-Örnek:
-
-```text
-screenshots/dns-tunneling-query-details.png
-```
-
----
 
 ## 11. Sonuç
 
