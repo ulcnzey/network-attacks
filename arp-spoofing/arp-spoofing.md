@@ -186,6 +186,8 @@ Bu çalışmada gözlemlenen göstergeler:
 * ARP Reply paketlerinin normal bir ARP Request olmadan gönderilmesi
 * Saldırganın MAC adresinin başka bir IP ile ilişkilendirilmesi
 
+<img width="617" height="443" alt="image" src="https://github.com/user-attachments/assets/a259bc8e-b047-4422-9705-b8369ce046a8" />
+
 ---
 
 ## 9. CyberTrace İçin Kullanılabilecek Özellikler
